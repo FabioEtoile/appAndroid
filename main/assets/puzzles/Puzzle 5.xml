@@ -1,0 +1,18 @@
+<puzzle size="14" nom="Puzzle 14x14">
+    <paire>
+        <point colonne="0" ligne="0" />
+        <point colonne="13" ligne="0" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="13" />
+        <point colonne="13" ligne="13" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="6" />
+        <point colonne="13" ligne="6" />
+    </paire>
+    <paire>
+        <point colonne="6" ligne="0" />
+        <point colonne="6" ligne="13" />
+    </paire>
+</puzzle>

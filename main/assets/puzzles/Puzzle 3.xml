@@ -1,0 +1,18 @@
+<puzzle size="9" nom="Puzzle 9x9">
+    <paire>
+        <point colonne="0" ligne="0" />
+        <point colonne="8" ligne="0" />
+    </paire>
+    <paire>
+        <point colonne="8" ligne="1" />
+        <point colonne="8" ligne="8" />
+    </paire>
+    <paire>
+        <point colonne="7" ligne="8" />
+        <point colonne="0" ligne="8" />
+    </paire>
+    <paire>
+        <point colonne="0" ligne="7" />
+        <point colonne="0" ligne="1" />
+    </paire>
+</puzzle>
